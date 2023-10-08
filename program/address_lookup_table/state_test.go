@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
+	"github.com/liangjies/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/pkg/pointer"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,8 +1,8 @@
 
 <h1 align="center">Solana Go SDK</h1>
 <div align="center">
-	<img src="https://github.com/blocto/solana-go-sdk/actions/workflows/go.yml/badge.svg?branch=main"></img>
-	<img src="https://goreportcard.com/badge/github.com/blocto/solana-go-sdk"></img>
+	<img src="https://github.com/liangjies/solana-go-sdk/actions/workflows/go.yml/badge.svg?branch=main"></img>
+	<img src="https://goreportcard.com/badge/github.com/liangjies/solana-go-sdk"></img>
 	<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/blocto/solana-go-sdk">
 	<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/blocto/solana-go-sdk?display_name=tag">
 </div>
@@ -14,7 +14,7 @@
 ### Installing
 
 ```sh
-go get -v github.com/blocto/solana-go-sdk
+go get -v github.com/liangjies/solana-go-sdk
 ```
 
 ### Example
@@ -29,8 +29,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/blocto/solana-go-sdk/client"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/liangjies/solana-go-sdk/client"
+	"github.com/liangjies/solana-go-sdk/rpc"
 )
 
 func main() {
@@ -64,8 +64,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/blocto/solana-go-sdk/client"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/liangjies/solana-go-sdk/client"
+	"github.com/liangjies/solana-go-sdk/rpc"
 )
 
 func main() {

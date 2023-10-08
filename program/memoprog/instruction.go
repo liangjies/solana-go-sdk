@@ -1,8 +1,8 @@
 package memoprog
 
 import (
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/liangjies/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/types"
 )
 
 type BuildMemoParam struct {

@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/rpc"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/liangjies/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/rpc"
+	"github.com/liangjies/solana-go-sdk/types"
 )
 
 func mustDeserializeBase64Tx(t *testing.T, s string) types.Transaction {

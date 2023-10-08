@@ -3,7 +3,7 @@ package nsprog
 import (
 	"fmt"
 
-	"github.com/blocto/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/common"
 )
 
 type NameRecordHeader struct {

@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
-	"github.com/blocto/solana-go-sdk/rpc"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/liangjies/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/pkg/pointer"
+	"github.com/liangjies/solana-go-sdk/rpc"
+	"github.com/liangjies/solana-go-sdk/types"
 )
 
 type GetBlockConfig struct {

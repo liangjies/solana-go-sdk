@@ -3,7 +3,7 @@ package sysvar
 import (
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
+	"github.com/liangjies/solana-go-sdk/common"
 	"github.com/stretchr/testify/assert"
 )
 

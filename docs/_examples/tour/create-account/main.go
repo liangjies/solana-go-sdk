@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/blocto/solana-go-sdk/pkg/hdwallet"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/liangjies/solana-go-sdk/pkg/hdwallet"
+	"github.com/liangjies/solana-go-sdk/types"
 	"github.com/mr-tron/base58"
 	"github.com/tyler-smith/go-bip39"
 )

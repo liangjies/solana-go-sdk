@@ -1,2 +1,2 @@
-// Deprecated: please use github.com/blocto/solana-go-sdk/program/name_service
+// Deprecated: please use github.com/liangjies/solana-go-sdk/program/name_service
 package nsprog
